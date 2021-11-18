@@ -10,37 +10,10 @@ https://www.sowell.fr/hotel/le-beach/[Le Beach], https://www.openstreetmap.org/s
 En https://www.google.com/maps/dir/?api=1&travelmode=walking&origin=Gare+de+Deauville&destination=Hôtel+Le+Beach,+Quai+Albert+1er,+14360+Trouville-sur-Mer[vous y rendant depuis la gare], profitez de la vue sur la Touques depuis le Pont des Belges.
 
 == Programme
-
-Lundi 29 novembre
-
-[cols="1,4"]
-|===
-
-| 15h00 | Activité à déterminer
-| 20h | Restaurant
-| Soirée | N’hésitez pas à amener des jeux de société ou autres si vous voulez proposer une activité !
-|===
-
-Mardi 30 novembre
-
-[cols="1,4"]
-|===
-
-| 9h | Ariane, Théo, Louise (15 min / pers., questions comprises)
-| 9h45 | Beatrice, Tahar (20 min / pers., questions comprises)
-| 10h25 | Pause
-| 10h45 | Zoi
-| 11h25 | 45 min discussions avec les présentateurs
-| 12h10 | Fin de la matinée
-| 12h30 | Restaurant
-| 13h30 | Balade sur la digue
-| 14h30 | Présentations des volontaires sur le thème AD & société, et discussion ouverte sur le même thème
-| 16h30 | Fin de la réunion
-| 17h18 | Départ du train vers Paris (pour info)
-|===
+include::Programme.adoc[]
 
 == Notes
-* Nous vous recommandons le train qui arrive depuis Paris à Deauville à 14h45, mais vous n’êtes aucunement obligés de prendre les trains suggérés, vous pouvez arriver plus tard ou partir plus tôt si nécessaire ou plus tard si vous voulez en profiter un peu plus longtemps.
+* Nous vous recommandons le train qui arrive depuis Paris à Deauville lundi à 14h45, mais vous n’êtes aucunement obligés de prendre les trains suggérés, vous pouvez arriver plus tard ou partir plus tôt si nécessaire ou plus tard si vous voulez en profiter un peu plus longtemps.
 * Vous devez prendre vos billets via le système Notilus.
 * Veuillez nous indiquer avant dimanche soir si vous participez à l’activité du lundi après-midi, http://whale.imag.fr/polls/vote/08537904-ee75-40cb-9e96-81ebb9b5dc52[ici].
 
