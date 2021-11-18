@@ -1,3 +1,7 @@
+ifdef::backend-docbook5[]
+= Programme
+endif::[]
+
 Lundi 29 novembre
 
 [cols="1,4"]
