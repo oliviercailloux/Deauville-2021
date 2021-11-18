@@ -1,6 +1,6 @@
 = Programme
 
-ifdef::backend-docbook5[]
+ifndef::backend-docbook5[]
 Version https://github.com/oliviercailloux/Deauville-2021/raw/master/Programme.pdf[PDF].
 endif::[]
 
