@@ -15,7 +15,6 @@ include::Programme.adoc[]
 == Notes
 * Nous vous recommandons le train qui arrive depuis Paris à Deauville lundi à 14h45, mais vous n’êtes aucunement obligés de prendre les trains suggérés, vous pouvez arriver plus tard ou partir plus tôt si nécessaire ou plus tard si vous voulez en profiter un peu plus longtemps.
 * Vous devez prendre vos billets via le système Notilus.
-* Veuillez nous indiquer avant dimanche soir si vous participez à l’activité du lundi après-midi, http://whale.imag.fr/polls/vote/08537904-ee75-40cb-9e96-81ebb9b5dc52[ici].
 
 == Appel à volontaires
 Nous voudrions organiser une discussion sur le thème Aide à la Décision et société mardi après-midi. Dites-nous SVP si vous êtes volontaire pour parler 5, 10, 20, 30, 40 minutes sur ce thème en début d’après-midi, que ce soit pour soumettre des questions à discussion, des courtes remarques ou réflexions, par exemple sur ce qui permet ou ce qui bloque d’après vous l’usage concret de l’AD, les bénéfices ou les risques que vous pensez que ses applications entrainent ou pourraient entrainer, etc. (style rump session) ; ou si vous voulez faire part de réflexions plus abouties sur ce thème avec un créneau horaire plus long.

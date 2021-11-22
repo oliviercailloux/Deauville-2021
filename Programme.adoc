@@ -10,7 +10,7 @@ Lundi 29 novembre
 |===
 
 | 16h00 | Visite de Trouville & Deauville, 1h30
-| 20h | Restaurant
+| 20h | Restaurant https://www.laverriere-deauville.fr/[La Verrière] : 7 rue Breney, 14800 Deauville (https://www.google.com/maps/dir/?api=1&travelmode=walking&origin=Hôtel+Le+Beach,+Quai+Albert+1er,+14360+Trouville-sur-Mer&destination=7+rue+Breney,+14800+Deauville[trajet depuis l’hôtel])
 | Soirée | N’hésitez pas à amener des jeux de société ou autres si vous voulez proposer une activité !
 |===
 
@@ -20,7 +20,7 @@ Mardi 30 novembre
 |===
 
 | 9h | Ariane : _Ordinal social rankings_
-| 9h15 | Théo : titre à déterminer
+| 9h15 | Théo Delemazure : titre à déterminer
 | 9h30 | Louise Dupuis : _Analyzing the interactions between spaces of argumentation in different contexts_
 | 9h45 | Beatrice Napolitano : _Preference elicitation under incomplete knowledge_
 | 10h05 | Tahar Allouche : _Truth-tracking via Approval Voting: Size Matters_
