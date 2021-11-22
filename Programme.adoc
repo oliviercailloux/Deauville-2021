@@ -19,11 +19,12 @@ Mardi 30 novembre
 [cols="1,4"]
 |===
 
-| 9h | Ariane, Théo, Louise (15 min / pers., questions comprises)
-| 9h45 | Beatrice
+| 9h | Ariane, Théo
+| 9h30 | Louise Dupuis : _Analyzing the interactions between spaces of argumentation in different contexts_
+| 9h45 | Beatrice Napolitano : _Preference elicitation under incomplete knowledge_
 | 10h05 | Tahar Allouche : _Truth-tracking via Approval Voting: Size Matters_
 | 10h25 | Pause
-| 10h45 | Zoi
+| 10h45 | Zoi Terzopoulou : _Realistic models for collective decisions: Dealing with incomplete and biased individual opinions_
 | 11h25 | Discussions avec les présentateurs de la matinée
 | 12h10 | Fin de la matinée
 | 12h30 | Restaurant
