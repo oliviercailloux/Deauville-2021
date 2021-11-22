@@ -19,7 +19,7 @@ Mardi 30 novembre
 [cols="1,4"]
 |===
 
-| 9h | Ariane : _Ordinal social rankings_
+| 9h | Ariane Ravier : _Ordinal social rankings_
 | 9h15 | Théo Delemazure : titre à déterminer
 | 9h30 | Louise Dupuis : _Analyzing the interactions between spaces of argumentation in different contexts_
 | 9h45 | Beatrice Napolitano : _Preference elicitation under incomplete knowledge_
