@@ -19,7 +19,7 @@ Mardi 30 novembre
 [cols="1,4"]
 |===
 
-| 9h | Ariane Ravier : titre à déterminer
+| 9h | Ariane Ravier : _Social ranking under uncertainty_
 | 9h15 | Théo Delemazure : _Taking the context into account: a new voting framework_
 | 9h30 | Louise Dupuis : _Analyzing the interactions between spaces of argumentation in different contexts_
 | 9h45 | Beatrice Napolitano : _Preference elicitation under incomplete knowledge_
