@@ -19,13 +19,13 @@ Mardi 30 novembre
 [cols="1,4"]
 |===
 
-| 9h | Ariane Ravier : _Social ranking under uncertainty_
-| 9h15 | Théo Delemazure : _Taking the context into account: a new voting framework_
-| 9h30 | Louise Dupuis : _Analyzing the interactions between spaces of argumentation in different contexts_
-| 9h45 | Beatrice Napolitano : _Preference elicitation under incomplete knowledge_
-| 10h05 | Tahar Allouche : _Truth-tracking via Approval Voting: Size Matters_
+| 9h | Ariane Ravier : _Social ranking under uncertainty_ (https://github.com/oliviercailloux/Deauville-2021/raw/master/Pr%C3%A9sentations/Ariane%20Ravier.pdf[PDF])
+| 9h15 | Théo Delemazure : _Taking the context into account: New voting frameworks_ (https://github.com/oliviercailloux/Deauville-2021/raw/master/Pr%C3%A9sentations/Theo%20Delemazure.pdf[PDF])
+| 9h30 | Louise Dupuis : _Analyzing the interactions between spaces of argumentation in different contexts_ (https://github.com/oliviercailloux/Deauville-2021/raw/master/Pr%C3%A9sentations/Louise%20Dupuis.pdf[PDF])
+| 9h45 | Beatrice Napolitano : _Preference elicitation under incomplete knowledge_ (https://github.com/oliviercailloux/Deauville-2021/raw/master/Pr%C3%A9sentations/Beatrice%20Napolitano.pdf[PDF])
+| 10h05 | Tahar Allouche : _Truth-tracking via Approval Voting: Size Matters_ (https://github.com/oliviercailloux/Deauville-2021/raw/master/Pr%C3%A9sentations/Tahar%20Allouche.pdf[PDF])
 | 10h25 | Pause
-| 10h45 | Zoi Terzopoulou : _Realistic models for collective decisions: Dealing with incomplete and biased individual opinions_
+| 10h45 | Zoi Terzopoulou : _Realistic models for collective decisions: Dealing with incomplete and biased individual opinions_ (https://github.com/oliviercailloux/Deauville-2021/raw/master/Pr%C3%A9sentations/Zoi%Terzopoulou.pdf[PDF])
 | 11h25 | Discussions avec les présentateurs de la matinée
 | 12h10 | Fin de la matinée
 | 12h30 | Restaurant https://chez-nany-deauville.eatbu.com[Chez Nany] : https://www.google.fr/maps/search/Chez+Nany%2C+62+rue+Mirabeaux%2C+14800+Deauville[62-64 Rue Mirabeaux, 14800 Deauville]
